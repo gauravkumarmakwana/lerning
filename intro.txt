@@ -1,1 +1,5 @@
-My name is Gaurav Makwana. Currently, I am studying in Computer Science and engineering BE -II at The Maharaja SayajiRao University of Baroda
+-> My name is Gaurav Makwana. 
+-> Currently, I am studying in Computer Science and engineering BE -II at The Maharaja SayajiRao University of Baroda.
+-> I am a Competitive programmer and I have solved 250+ question on differents platform e.g. Leetcode, GFG, Codechef, CodeForces etc.
+-> I am 2 ⭐ at codechef and I have attend 25+ online contest.
+-> My expertise in data structure, algoriths, problem solving, c++. 
