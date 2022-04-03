@@ -8,7 +8,11 @@ Revise some basic Git command
 -> touch
 -> git status
 -> git add .
+-> git restore --stage .
 -> git commit -m "Some Comments"
 -> git log
 -> vi name.txt
 -> cat name.txt
+-> rm -rf name.txt
+-> git reset <commits no.>
+
