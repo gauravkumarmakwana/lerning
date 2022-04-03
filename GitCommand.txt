@@ -1,0 +1,14 @@
+Revise some basic Git command
+
+-> git init
+-> ls
+-> ls -a
+-> ls .git
+-> mkdir
+-> touch
+-> git status
+-> git add .
+-> git commit -m "Some Comments"
+-> git log
+-> vi name.txt
+-> cat name.txt
